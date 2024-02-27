@@ -105,7 +105,7 @@ $totalPages = ceil($totalItems / $itemsPerPage);
       ?>
       <style>
         body {
-          background: url('assets/img/bggg.jpg') no-repeat center center fixed;
+          background: url('assets/img/ppg.jpeg') no-repeat center center fixed;
           background-size: cover;
 
         }
